@@ -1,8 +1,10 @@
 # Food Safety
 
 # Abstract
+This research paper investigates the restaurant food safety scores for restaurants in San Francisco. Through the use of multiple Data Cleaning methods and Exploratory Data Analysis (EDA), I have cleaned and analyzed multiple data sources.
 
 # Introduction
+
 
 # Description of Data
 
@@ -17,15 +19,10 @@
 # Data Source 3 []
 
 bus.csv
-8 months ago665 kB
 ins.csv
-8 months ago1.86 MB
 ins2vio.csv
-8 months ago1.03 MB
 legend.csv
-8 months ago120 B
 sf_zipcodes.json
-8 months ago474 B
 vio.csv
 
 # What does this mean?
